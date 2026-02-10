@@ -1,0 +1,41 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "Daedelus",
+      "uniqueId": "8f160ea5-fe0a-43cc-a32b-22e542006bd9"
+    },
+    "time": 1766659862094,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/xlG56h7vzC"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Daedelus",
+      "uniqueId": "8f160ea5-fe0a-43cc-a32b-22e542006bd9"
+    },
+    "time": 1760706934038,
+    "type": "Profiler",
+    "data": {
+      "type": "file",
+      "value": "C:\\Users\\zsolt\\curseforge\\minecraft\\Instances\\Dungeon Heroes\\config\\spark\\profile-2025-10-17_15.15.33.sparkprofile"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Daedelus",
+      "uniqueId": "8f160ea5-fe0a-43cc-a32b-22e542006bd9"
+    },
+    "time": 1756828545660,
+    "type": "Profiler",
+    "data": {
+      "type": "file",
+      "value": "C:\\Users\\zsolt\\curseforge\\minecraft\\Instances\\Dungeon Heroes\\config\\spark\\profile-2025-09-02_17.55.45.sparkprofile"
+    }
+  }
+]
