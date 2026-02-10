@@ -1,0 +1,18 @@
+{
+	id: "bbfe8a5d-fb20-30c0-8128-eab82e8e8138"
+	type: "player"
+	player_name: "Brodhan_id"
+	ranks: {
+		bbfe8a5d-fb20-30c0-8128-eab82e8e8138: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Brodhan_id"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF9459"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+		"ftbteams:team_stages": [ ]
+	}
+	message_history: [ ]
+	extra: { }
+}
